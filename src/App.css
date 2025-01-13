@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth; 
+}
+section {
+  padding: 50px;
+  min-height: 100vh; 
+  border-bottom: 1px solid #ccc; 
+}
+
+.portfolio-container {
+  width: 100%;
+  overflow-y: auto;
+}
