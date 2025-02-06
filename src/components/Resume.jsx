@@ -9,7 +9,7 @@ function Resume() {
       <header className="resume-header">
         <div className="address-info">
           <h1>Address</h1>
-          <p>Nellmapius, Pretoria, Gauteng, South Africa 0122</p>
+          <p>Pretoria, Gauteng, South Africa</p>
         </div>
       </header>
 

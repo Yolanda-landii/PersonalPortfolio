@@ -24,7 +24,7 @@ function PersonalIntroduction() {
       <div className="intro-content">
         <div className="intro-image">
           <img
-            src="/assets/IMG_4182.jpeg"
+            src="/assets/IMG0577.jpeg"
             alt="Yolanda Mabotja"
             className="profile-pic"
           />
